@@ -87,8 +87,6 @@ Performed manual hyperparameter tuning on:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/churn-prediction-ml.git
-cd churn-prediction-ml
 
 2. Install dependencies:
 
